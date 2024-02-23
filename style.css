@@ -292,6 +292,12 @@ section {
   margin: auto 0;
 }
 
+.section__pic-container img{
+  height: 18rem;
+  width: 18rem;
+  border-radius: 20rem;
+}
+
 #experience {
   position: relative;
 }
